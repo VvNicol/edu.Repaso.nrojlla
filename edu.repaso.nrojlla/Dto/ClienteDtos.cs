@@ -48,7 +48,7 @@ namespace edu.repaso.nrojlla.Dto
         override
         public string ToString()
         {
-            string textoCliente = " "+ this.IdCliente;
+            string textoCliente = " "+ this.nombreCliente+ " "+this.apellido1Cliente+" "+this.apellido2Cliente ;
 
             return textoCliente;
         }

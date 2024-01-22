@@ -8,6 +8,7 @@ namespace edu.repaso.nrojlla.Servicios
 {
     internal interface OperativaInterface
     {
+        void iniciarSesion(List<Dto.ClienteDtos> clienteDtos);
         void registroCliente(List<Dto.ClienteDtos> clienteDtos);
     }
 }

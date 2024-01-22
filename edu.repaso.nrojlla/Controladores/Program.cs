@@ -31,6 +31,10 @@ namespace edu.repaso.nrojlla.Controladores
                         oi.registroCliente(clienteDtos);
 
                         break;
+                    case 2:
+                        oi.iniciarSesion(clienteDtos);
+
+                        break;
 
                 }
 
