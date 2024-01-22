@@ -1,0 +1,14 @@
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.repaso.nrojlla\bin\Debug\net6.0\edu.repaso.nrojlla.exe
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.repaso.nrojlla\bin\Debug\net6.0\edu.repaso.nrojlla.deps.json
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.repaso.nrojlla\bin\Debug\net6.0\edu.repaso.nrojlla.runtimeconfig.json
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.repaso.nrojlla\bin\Debug\net6.0\edu.repaso.nrojlla.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.repaso.nrojlla\bin\Debug\net6.0\edu.repaso.nrojlla.pdb
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.repaso.nrojlla\obj\Debug\net6.0\edu.repaso.nrojlla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.repaso.nrojlla\obj\Debug\net6.0\edu.repaso.nrojlla.AssemblyInfoInputs.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.repaso.nrojlla\obj\Debug\net6.0\edu.repaso.nrojlla.AssemblyInfo.cs
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.repaso.nrojlla\obj\Debug\net6.0\edu.repaso.nrojlla.csproj.CoreCompileInputs.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.repaso.nrojlla\obj\Debug\net6.0\edu.repaso.nrojlla.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.repaso.nrojlla\obj\Debug\net6.0\refint\edu.repaso.nrojlla.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.repaso.nrojlla\obj\Debug\net6.0\edu.repaso.nrojlla.pdb
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.repaso.nrojlla\obj\Debug\net6.0\edu.repaso.nrojlla.genruntimeconfig.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\edu.repaso.nrojlla\obj\Debug\net6.0\ref\edu.repaso.nrojlla.dll
